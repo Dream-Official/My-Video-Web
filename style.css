@@ -1,0 +1,17 @@
+.aoba{
+    height: 300px;
+  width: 510px;
+  display: inline-block;
+  border-width: 1px;
+  border-color: #0001;
+  border-radius: 14px;
+  background-color: bisque;
+  border-style: solid;
+}
+
+.aman {
+  font-weight: bold;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.25rem;
+}
